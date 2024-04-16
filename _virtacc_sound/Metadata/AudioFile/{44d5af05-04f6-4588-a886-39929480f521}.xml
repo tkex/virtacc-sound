@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{44d5af05-04f6-4588-a886-39929480f521}">
+		<property name="assetPath">
+			<value>Ballon5.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.90993197278911564</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fdef06e0-c878-4f48-96ca-e46fb5bffcec}</destination>
+		</relationship>
+	</object>
+</objects>
